@@ -1,0 +1,17 @@
+[
+    {
+      "question": "Qual nome do professor de FrontEnd?",
+      "answers": ["Kelson", "Iverson", "Lucas", "Roberto"],
+      "correctAnswer": "Kelson"
+    },
+    {
+      "question": "Quantos títulos mundiais tem a seleção brasileira?",
+      "answers": ["Dois", "Nove", "Quatro", "Cinco"],
+      "correctAnswer": "Cinco"
+    },
+    {
+      "question": "Estamos em qual período?",
+      "answers": ["Primeiro", "Segundo", "Terceiro", "Quarto"],
+      "correctAnswer": "Quarto"
+    }
+  ]
